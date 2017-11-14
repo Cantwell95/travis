@@ -3,5 +3,7 @@
 import datetime
 import getpass
 
-print getpass.getuser()
+
 print datetime.datetime.now()
+username = getpass.getuser()
+print username
