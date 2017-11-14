@@ -1,8 +1,7 @@
 
 #!/usr/bin/python
-import time;
+import datetime
 import getpass
 
 print getpass.getuser()
-localtime = time.localtime(time.time())
-print "Local current time :", localtime
+print datetime.datetime.now()
