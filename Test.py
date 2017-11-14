@@ -6,4 +6,4 @@ import os
 
 print getpass.getuser()
 print datetime.datetime.now()
-print os.getlogin(
+print os.getlogin()
