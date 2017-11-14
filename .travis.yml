@@ -4,4 +4,4 @@ python:
 
 # command to run tests
 script:
-  - test.py
+  ./test.py
