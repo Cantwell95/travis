@@ -1,2 +1,3 @@
-print("This line will be printed.")
+#!bin/bash
+
 print("Goodbye, World!")
